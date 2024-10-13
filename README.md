@@ -1,0 +1,1 @@
+This part will have some Python scripts that I find useful from time to time. It will require having access to the commercial product Workspace (from LSEG). This product used to be called Eikon and the the API still has the same limitations from before but will depend on a specific subscription license.
